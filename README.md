@@ -2,7 +2,7 @@
 
 _This only works on Sonoma 14.3.1 and below as 14.4 blocked any patches._
 
-I already created CSR-ACTIVE-ARG codes for you to patch root easily on OCLP (SIP Disable), MinKernel Values for Wi-FI Kexts as well as Blocking com.apple.iokit.skywalkfamily on OCConfigurator.
+I already created CSR-ACTIVE-CONFIG codes for you to patch root easily on OCLP (SIP Disable), MinKernel Values for Wi-FI Kexts as well as Blocking com.apple.iokit.skywalkfamily on OCConfigurator.
 
 Special Thanks to HowieHye who laid the ground work for the DSDT patches for Dell Inspiron 7460 but it's only for Ventura RC. I already included his patches to this build.
 
