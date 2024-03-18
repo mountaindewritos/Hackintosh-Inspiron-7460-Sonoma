@@ -13,7 +13,8 @@ Instructions:
 2. Delete EFI Folder and Replace it with the EFI that you downloaded
 
    (In case you are on Multiboot DELETE EFI/OC FOLDER AND REPLACE IT WITH THE OC FOLDER FROM THE DOWNLOADED EFI)
-4. Restart your PC
+3. On OpenCore Configurator open config.plist and _Generate your own Serial on PlatformInfo_.
+4. Save your config.plist and Restart your PC
 5. Open OpenCore Legacy Patcher (I also proveded this on Applications.zip), Click Post-Install Root Patch and then Start Root Patching
    
 ![Screenshot 2024-03-18 at 1 06 36 PM](https://github.com/ervinavales/Hackintosh-Inspiron-7460-Sonoma/assets/66302821/6abf1d08-80d1-4d9e-8308-82312da7766b)
@@ -27,7 +28,7 @@ For Intel Wi-Fi/BT cards download airportitwlm kext file and paste it on EFI/OC/
 Download link: https://github.com/OpenIntelWireless/itlwm
 
 **Known Issues for this build**
-1. DRM doesn't work for Prime Video, Apple TV
+1. DRM doesn't work for Prime Video, Apple TV due to GPU didn't meet minimum OS specification 
 2. Touchpad kext is a bit buggy (Disabled it for now)
 3. Palm Rejection doesn't work
 4. AirDrop doesn't work on BCM (Deleted Kexts since it doesn't work)
