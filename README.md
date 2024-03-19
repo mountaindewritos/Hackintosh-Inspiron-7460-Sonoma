@@ -31,5 +31,10 @@ Download link: https://github.com/OpenIntelWireless/itlwm
 1. DRM doesn't work for Prime Video, Apple TV due to GPU didn't meet minimum OS specification 
 2. Touchpad kext is a bit buggy (Disabled it for now)
 3. Palm Rejection doesn't work
-4. AirDrop doesn't work on BCM (Deleted Kexts since it doesn't work)
-5. Bluetooth doesn't work on BCM (Deleted Kexts since it doesn't work)
+~~4. AirDrop doesn't work on BCM~~ (Fixed on v1.2.0 EFI)
+
+![Screenshot 2024-03-20 at 12 09 18 AM](https://github.com/ervinavales/Hackintosh-Inspiron-7460-Sonoma/assets/66302821/a6cdfa34-54bd-468e-99a6-e9b37530e1f6)
+~~5. Bluetooth doesn't work on BCM~~ (Fixed on v1.2.0 EFI)
+
+![Screenshot 2024-03-20 at 12 09 53 AM](https://github.com/ervinavales/Hackintosh-Inspiron-7460-Sonoma/assets/66302821/007f68af-b614-49db-ac24-787b47ecdc0e)
+
